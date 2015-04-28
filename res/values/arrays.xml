@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>"Interference isn't affecting your connection speed."</item>
+        <item>Interference is affecting your connection speed.</item>
+        <item>Interference is slowing down your connection speed.</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>System Default</item>
+        <item>Chinese - Simplified</item>
+        <item>English</item>
+        <item>Chinese - Hong Kong</item>
+        <item>Chinese - Taiwan</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

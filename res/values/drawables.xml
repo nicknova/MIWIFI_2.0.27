@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="quicklink_progress_bar">false</item>
+    <item type="drawable" name="remote_download_menu_bg">false</item>
+    <item type="drawable" name="remote_download_progress_bar_downloading">false</item>
+    <item type="drawable" name="remote_download_progress_bar_failed">false</item>
+    <item type="drawable" name="remote_download_progress_bar_pause">false</item>
+</resources>

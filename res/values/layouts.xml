@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="about_setting_list_normal_view">false</item>
+    <item type="layout" name="client_block_feature_guide">false</item>
+    <item type="layout" name="client_block_wifi_access_circle_content_block_disabled">false</item>
+    <item type="layout" name="client_block_wifi_access_circle_content_block_enabled">false</item>
+    <item type="layout" name="client_blockable_client_item1">false</item>
+    <item type="layout" name="client_device_detail_bottom_bar">false</item>
+    <item type="layout" name="client_list_auto_blockable_device_item">false</item>
+    <item type="layout" name="client_list_blockable_device_item">false</item>
+    <item type="layout" name="cube_ptr_classic_default_header">false</item>
+    <item type="layout" name="cube_ptr_simple_loading">false</item>
+    <item type="layout" name="feedback_activity">false</item>
+    <item type="layout" name="main_fragment_section_dummy">false</item>
+    <item type="layout" name="pullrefresh_pull_header">false</item>
+    <item type="layout" name="quicklink_search_view">false</item>
+</resources>
